@@ -1,4 +1,6 @@
 pandas==2.0.1
 numpy
 flask
+seaborn
+scikit-learn
 -e .
